@@ -1,0 +1,2 @@
+This folder contain some matlab scripts:
+ntc.m-> aproximate thermistor equation
